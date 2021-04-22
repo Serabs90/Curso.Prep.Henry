@@ -1,0 +1,2 @@
+for: es un bucle sobre una variable que sirve para hacer tareas repetitivas hasta cumplir una condición.
+&&, ||, !: los operadores lógicos son operadores matemáticos para tipos de datos boolenos (verdadero o falso). Evaluan las expresiones y dependiendo de su condición ejecutan la variable o no. && significa Y, compara la expresiones y sólo si TODAS son VERDADEREAS avanza. || significa O, compara la expresiones y si ALGUNA es VERDADERA avanza. ! significa NO, devuelve el valor booleano OPUESTO a la expresión y SÓLO si es VERDADERA avanza.
