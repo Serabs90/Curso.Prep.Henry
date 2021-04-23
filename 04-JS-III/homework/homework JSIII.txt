@@ -1,0 +1,1 @@
+Arrays: son una especie de tipo de dato que a diferencia de las variables normales lo que hace es armar una "lista" o matriz de datos, donde va ubicando los diferentes datos "en casilleros" desde donde podemos invocarlos
